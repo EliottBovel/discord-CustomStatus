@@ -1,4 +1,4 @@
-//META{"name":"CustomStatus"}*//
+//META{"name":"CustomStatus","website":"https://github.com/El10tt/discord-CustomStatus","source":"https://raw.githubusercontent.com/El10tt/discord-CustomStatus/master/CustomStatus.plugin.js"}*//
 
 class CustomStatus {
 	getName() { return "CustomStatus"; }
