@@ -13,4 +13,5 @@ go to the discord settings, in the Bandaged BD section then plugins and activate
 See the How to Use section.
 
 ###How to use
+
 ![](https://imgur.com/download/gbHqwaE)
